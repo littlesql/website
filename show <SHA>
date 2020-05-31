@@ -1,0 +1,29 @@
+[33mcommit 6ba27935c2e3dc59d3b82237d22e35ec12cf8c0a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Chas Kinney <chastity@kinney.cc>
+Date:   Fri May 29 14:10:44 2020 -0400
+
+    Add baz
+
+[33mcommit 1b7a0d63f2b26962d97ba5a1f8799b954d9a71d2[m
+Author: Chas Kinney <chastity@kinney.cc>
+Date:   Fri May 29 14:02:26 2020 -0400
+
+    Add content to index.html
+
+[33mcommit c93e0e8198dbedba67fba886c2e87e7922990d72[m
+Author: Chas Kinney <chastity@kinney.cc>
+Date:   Fri May 29 13:54:17 2020 -0400
+
+    Initialize bar
+
+[33mcommit e04b7ffe7c67411a8bca82bc0c33f0a6a9984ad7[m
+Author: Chas Kinney <chastity@kinney.cc>
+Date:   Fri May 29 13:53:54 2020 -0400
+
+    Initialize foo
+
+[33mcommit a2d72232bb3a722fa713611d00bc40a190abb46f[m
+Author: Chas Kinney <chastity@kinney.cc>
+Date:   Fri May 29 13:50:49 2020 -0400
+
+    Initialize repository
